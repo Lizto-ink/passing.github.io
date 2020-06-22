@@ -89,6 +89,7 @@
        
   <p>即使面对残酷的现实，也要用微笑慰藉痛苦的心灵。我们称之为人性的光辉。</p>
 <p><img src="http://m.qpic.cn/psc?/V11b4Umo4J6KVS/C5I6tuQmWty2LHkfPkGvPi70zii9pDAX*GKi8JR37wvyRS7*QckGLT7vS66vbu6xNsrSVioXLRa1k8exIwCoOg!!/b&amp;bo=AgMUAQIDFAEDCSw!&amp;rf=viewer_4" alt="img"></p>
+<a id="more"></a>
 <p>01：unravel</p>
 <p>东京喰种主题曲。</p>
 <p>挣扎着，却无法逃脱的命运。</p>
@@ -147,55 +148,28 @@
   </nav>
 
    
-<!-- valine评论 -->
-<div id="vcomments-box">
-  <div id="vcomments"></div>
-</div>
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script>
-<script>
-  new Valine({
-    el: "#vcomments",
-    app_id: "",
-    app_key: "",
-    path: window.location.pathname,
-    avatar: "monsterid",
-    placeholder: "给我的文章加点评论吧~",
-    recordIP: true,
-  });
-  const infoEle = document.querySelector("#vcomments .info");
-  if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
-    infoEle.childNodes.forEach(function (item) {
-      item.parentNode.removeChild(item);
-    });
-  }
-</script>
-<style>
-  #vcomments-box {
-    padding: 5px 30px;
-  }
-
-  @media screen and (max-width: 800px) {
-    #vcomments-box {
-      padding: 5px 0px;
-    }
-  }
-
-  #vcomments-box #vcomments {
-    background-color: #fff;
-  }
-
-  .v .vlist .vcard .vh {
-    padding-right: 20px;
-  }
-
-  .v .vlist .vcard {
-    padding-left: 10px;
-  }
-</style>
-
  
-     
+   
+<div class="gitalk" id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.6.2/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1.6.2/dist/gitalk.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/blueimp-md5@2.10.0/js/md5.min.js"></script>
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+    clientID: '',
+    clientSecret: '',
+    repo: '',
+    owner: '',
+    admin: [''],
+    // id: location.pathname,      // Ensure uniqueness and length less than 50
+    id: md5(location.pathname),
+    distractionFreeMode: false,  // Facebook-like distraction free mode
+    pagerDirection: 'last'
+  })
+
+  gitalk.render('gitalk-container')
+</script>
+  
 </article>
 
 </section>
@@ -449,6 +423,8 @@
 <!-- CodeCopy -->
 
 <!-- CanvasBackground -->
+
+<script src="/js/dz.js"></script>
 
 
     
