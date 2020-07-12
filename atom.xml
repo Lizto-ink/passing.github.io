@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="lizto-ink.github.io/"/>
-  <updated>2020-07-12T09:25:35.050Z</updated>
+  <updated>2020-07-12T09:47:08.949Z</updated>
   <id>lizto-ink.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【杂谈】崩坏三 零食大礼包</title>
+    <title>崩坏三 零食大礼包</title>
     <link href="lizto-ink.github.io/2020/07/12/%E9%9B%B6%E9%A3%9F%E5%A4%A7%E7%A4%BC%E5%8C%85/"/>
     <id>lizto-ink.github.io/2020/07/12/%E9%9B%B6%E9%A3%9F%E5%A4%A7%E7%A4%BC%E5%8C%85/</id>
     <published>2020-07-12T09:24:34.000Z</published>
-    <updated>2020-07-12T09:25:35.050Z</updated>
+    <updated>2020-07-12T09:47:08.949Z</updated>
     
     <summary type="html">
     
@@ -37,14 +37,16 @@
     
     
     
+      <category term="ACG领域" scheme="lizto-ink.github.io/tags/ACG%E9%A2%86%E5%9F%9F/"/>
+    
   </entry>
   
   <entry>
-    <title>【绘画】临摹的一张空律线稿</title>
+    <title>临摹的一张空律线稿</title>
     <link href="lizto-ink.github.io/2020/07/09/%E5%A5%B3%E7%8E%8B%E7%BA%BF%E7%A8%BF/"/>
     <id>lizto-ink.github.io/2020/07/09/%E5%A5%B3%E7%8E%8B%E7%BA%BF%E7%A8%BF/</id>
     <published>2020-07-09T10:56:08.000Z</published>
-    <updated>2020-07-12T09:31:37.774Z</updated>
+    <updated>2020-07-12T09:46:50.121Z</updated>
     
     <summary type="html">
     
@@ -65,11 +67,11 @@
   </entry>
   
   <entry>
-    <title>【NERF无限</title>
+    <title>NERF无限</title>
     <link href="lizto-ink.github.io/2020/07/09/nerf%E6%97%A0%E9%99%90/"/>
     <id>lizto-ink.github.io/2020/07/09/nerf%E6%97%A0%E9%99%90/</id>
     <published>2020-07-09T01:46:52.000Z</published>
-    <updated>2020-07-12T09:36:48.244Z</updated>
+    <updated>2020-07-12T09:45:12.053Z</updated>
     
     <summary type="html">
     
@@ -85,16 +87,16 @@
     
     
     
-      <category term="nerf" scheme="lizto-ink.github.io/tags/nerf/"/>
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
   <entry>
-    <title>【3C】三星盖乐世note9</title>
+    <title>三星盖乐世note9</title>
     <link href="lizto-ink.github.io/2020/07/09/note9/"/>
     <id>lizto-ink.github.io/2020/07/09/note9/</id>
     <published>2020-07-09T01:46:41.000Z</published>
-    <updated>2020-07-09T02:35:47.265Z</updated>
+    <updated>2020-07-12T09:45:20.481Z</updated>
     
     <summary type="html">
     
@@ -109,6 +111,8 @@
     </summary>
     
     
+    
+      <category term="电子" scheme="lizto-ink.github.io/tags/%E7%94%B5%E5%AD%90/"/>
     
   </entry>
   
@@ -117,7 +121,7 @@
     <link href="lizto-ink.github.io/2020/07/09/gunpla1/"/>
     <id>lizto-ink.github.io/2020/07/09/gunpla1/</id>
     <published>2020-07-09T01:45:13.000Z</published>
-    <updated>2020-07-12T09:36:37.012Z</updated>
+    <updated>2020-07-12T09:44:59.934Z</updated>
     
     <summary type="html">
     
@@ -133,16 +137,16 @@
     
     
     
-      <category term="高达模型" scheme="lizto-ink.github.io/tags/%E9%AB%98%E8%BE%BE%E6%A8%A1%E5%9E%8B/"/>
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
   <entry>
-    <title>【3C】Surface Pro</title>
+    <title>Surface Pro</title>
     <link href="lizto-ink.github.io/2020/07/09/surface/"/>
     <id>lizto-ink.github.io/2020/07/09/surface/</id>
     <published>2020-07-09T01:45:04.000Z</published>
-    <updated>2020-07-09T02:35:55.970Z</updated>
+    <updated>2020-07-12T09:45:30.060Z</updated>
     
     <summary type="html">
     
@@ -158,14 +162,16 @@
     
     
     
+      <category term="电子" scheme="lizto-ink.github.io/tags/%E7%94%B5%E5%AD%90/"/>
+    
   </entry>
   
   <entry>
-    <title>【杂谈】天猫超市百元零食礼包</title>
+    <title>天猫超市百元零食礼包</title>
     <link href="lizto-ink.github.io/2020/07/09/%E5%A4%A9%E7%8C%AB%E8%B6%85%E5%B8%82%E7%99%BE%E5%85%83%E9%9B%B6%E9%A3%9F%E7%A4%BC%E5%8C%85/"/>
     <id>lizto-ink.github.io/2020/07/09/%E5%A4%A9%E7%8C%AB%E8%B6%85%E5%B8%82%E7%99%BE%E5%85%83%E9%9B%B6%E9%A3%9F%E7%A4%BC%E5%8C%85/</id>
     <published>2020-07-09T01:44:52.000Z</published>
-    <updated>2020-07-12T09:27:42.149Z</updated>
+    <updated>2020-07-12T09:47:30.971Z</updated>
     
     <summary type="html">
     
@@ -181,16 +187,14 @@
     
     
     
-      <category term="杂谈" scheme="lizto-ink.github.io/tags/%E6%9D%82%E8%B0%88/"/>
-    
   </entry>
   
   <entry>
-    <title>【周边】创世纪驱动器</title>
+    <title>创世纪驱动器</title>
     <link href="lizto-ink.github.io/2020/07/09/%E5%88%9B%E4%B8%96%E7%BA%AAe%C2%85%E9%A9%B1%E5%8A%A8%E5%99%A8/"/>
     <id>lizto-ink.github.io/2020/07/09/%E5%88%9B%E4%B8%96%E7%BA%AAe%C2%85%E9%A9%B1%E5%8A%A8%E5%99%A8/</id>
     <published>2020-07-09T01:44:34.000Z</published>
-    <updated>2020-07-09T02:36:04.827Z</updated>
+    <updated>2020-07-12T09:46:06.777Z</updated>
     
     <summary type="html">
     
@@ -205,15 +209,17 @@
     </summary>
     
     
+    
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
   <entry>
-    <title>【周边】星杰 击龙剑/钢龙枪</title>
+    <title>星杰 击龙剑/钢龙枪</title>
     <link href="lizto-ink.github.io/2020/07/09/%E6%98%9F%E6%9D%B0%E8%B6%85%E9%BE%99%E7%A5%9E/"/>
     <id>lizto-ink.github.io/2020/07/09/%E6%98%9F%E6%9D%B0%E8%B6%85%E9%BE%99%E7%A5%9E/</id>
     <published>2020-07-09T01:44:16.000Z</published>
-    <updated>2020-07-09T02:37:05.843Z</updated>
+    <updated>2020-07-12T09:47:49.084Z</updated>
     
     <summary type="html">
     
@@ -228,6 +234,8 @@
     </summary>
     
     
+    
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
@@ -236,7 +244,7 @@
     <link href="lizto-ink.github.io/2020/07/09/nerf%E7%81%B5%E4%BA%91%E5%BC%93/"/>
     <id>lizto-ink.github.io/2020/07/09/nerf%E7%81%B5%E4%BA%91%E5%BC%93/</id>
     <published>2020-07-09T01:44:03.000Z</published>
-    <updated>2020-07-12T09:36:43.207Z</updated>
+    <updated>2020-07-12T09:45:06.582Z</updated>
     
     <summary type="html">
     
@@ -252,16 +260,16 @@
     
     
     
-      <category term="nerf" scheme="lizto-ink.github.io/tags/nerf/"/>
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
   <entry>
-    <title>【周边】电影L级大黄蜂</title>
+    <title>电影L级大黄蜂</title>
     <link href="lizto-ink.github.io/2020/07/09/%E5%A4%A7%E9%BB%84%E8%9C%82/"/>
     <id>lizto-ink.github.io/2020/07/09/%E5%A4%A7%E9%BB%84%E8%9C%82/</id>
     <published>2020-07-09T01:43:49.000Z</published>
-    <updated>2020-07-12T09:31:45.048Z</updated>
+    <updated>2020-07-12T09:46:14.843Z</updated>
     
     <summary type="html">
     
@@ -277,7 +285,7 @@
     
     
     
-      <category term="变形金刚" scheme="lizto-ink.github.io/tags/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A/"/>
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
@@ -286,7 +294,7 @@
     <link href="lizto-ink.github.io/2020/06/23/GPDWIN/"/>
     <id>lizto-ink.github.io/2020/06/23/GPDWIN/</id>
     <published>2020-06-23T03:07:12.000Z</published>
-    <updated>2020-07-12T09:40:28.682Z</updated>
+    <updated>2020-07-12T09:44:11.936Z</updated>
     
     <summary type="html">
     
@@ -296,16 +304,16 @@
     
     
     
-      <category term="电子设备,游戏掌机" scheme="lizto-ink.github.io/tags/%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87-%E6%B8%B8%E6%88%8F%E6%8E%8C%E6%9C%BA/"/>
+      <category term="电子" scheme="lizto-ink.github.io/tags/%E7%94%B5%E5%AD%90/"/>
     
   </entry>
   
   <entry>
-    <title>【杂谈】温柔，残酷与信念</title>
+    <title>温柔，残酷与信念</title>
     <link href="lizto-ink.github.io/2020/06/18/%E4%B8%80%E4%BB%BD%E6%B8%A9%E6%9F%94%E7%9A%84%E6%AD%8C%E5%8D%95/"/>
     <id>lizto-ink.github.io/2020/06/18/%E4%B8%80%E4%BB%BD%E6%B8%A9%E6%9F%94%E7%9A%84%E6%AD%8C%E5%8D%95/</id>
     <published>2020-06-18T15:37:29.000Z</published>
-    <updated>2020-07-12T09:27:24.506Z</updated>
+    <updated>2020-07-12T09:48:00.318Z</updated>
     
     <summary type="html">
     
@@ -316,16 +324,16 @@
     
     
     
-      <category term="杂谈" scheme="lizto-ink.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+      <category term="音乐" scheme="lizto-ink.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
-    <title>【3C】三星第四代Gear VR使用体验</title>
+    <title>三星第四代Gear VR使用体验</title>
     <link href="lizto-ink.github.io/2020/06/12/%E4%B8%89%E6%98%9FVR/"/>
     <id>lizto-ink.github.io/2020/06/12/%E4%B8%89%E6%98%9FVR/</id>
     <published>2020-06-12T14:21:06.000Z</published>
-    <updated>2020-07-12T09:35:04.787Z</updated>
+    <updated>2020-07-12T09:47:24.023Z</updated>
     
     <summary type="html">
     
@@ -343,11 +351,11 @@
   </entry>
   
   <entry>
-    <title>【周边】GSC 牧濑红莉栖</title>
+    <title>GSC 牧濑红莉栖</title>
     <link href="lizto-ink.github.io/2020/06/12/%E8%B7%B3%E6%A5%BC%E5%8A%A9%E6%89%8B/"/>
     <id>lizto-ink.github.io/2020/06/12/%E8%B7%B3%E6%A5%BC%E5%8A%A9%E6%89%8B/</id>
     <published>2020-06-11T21:47:22.000Z</published>
-    <updated>2020-07-03T22:46:17.130Z</updated>
+    <updated>2020-07-12T09:47:40.125Z</updated>
     
     <summary type="html">
     
@@ -359,14 +367,16 @@
     
     
     
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
+    
   </entry>
   
   <entry>
-    <title>【周边】GSC 军服姬 阿尔泰尔 森罗万象版</title>
+    <title>GSC 军服姬 阿尔泰尔 森罗万象版</title>
     <link href="lizto-ink.github.io/2020/06/12/%E9%98%BF%E5%B0%94%E6%B3%B0%E5%B0%94/"/>
     <id>lizto-ink.github.io/2020/06/12/%E9%98%BF%E5%B0%94%E6%B3%B0%E5%B0%94/</id>
     <published>2020-06-11T21:25:29.000Z</published>
-    <updated>2020-07-03T22:45:28.829Z</updated>
+    <updated>2020-07-12T09:45:41.667Z</updated>
     
     <summary type="html">
     
@@ -377,14 +387,16 @@
     
     
     
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
+    
   </entry>
   
   <entry>
-    <title>【周边】MC刹帝利</title>
+    <title>MC刹帝利</title>
     <link href="lizto-ink.github.io/2020/06/12/%E5%88%B9%E5%B8%9D%E5%88%A9/"/>
     <id>lizto-ink.github.io/2020/06/12/%E5%88%B9%E5%B8%9D%E5%88%A9/</id>
     <published>2020-06-11T20:51:57.000Z</published>
-    <updated>2020-07-03T22:45:39.351Z</updated>
+    <updated>2020-07-12T09:45:58.787Z</updated>
     
     <summary type="html">
     
@@ -395,14 +407,16 @@
     
     
     
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
+    
   </entry>
   
   <entry>
-    <title>【杂谈】不应被遗忘的“差评”佳作-亡国的阿基德</title>
+    <title>不应被遗忘的“差评”佳作-亡国的阿基德</title>
     <link href="lizto-ink.github.io/2020/06/12/%E9%98%BF%E5%9F%BA%E5%BE%B7/"/>
     <id>lizto-ink.github.io/2020/06/12/%E9%98%BF%E5%9F%BA%E5%BE%B7/</id>
     <published>2020-06-11T17:00:49.000Z</published>
-    <updated>2020-06-22T23:41:22.489Z</updated>
+    <updated>2020-07-12T09:47:15.319Z</updated>
     
     <summary type="html">
     
@@ -415,14 +429,16 @@
     
     
     
+      <category term="ACG领域" scheme="lizto-ink.github.io/tags/ACG%E9%A2%86%E5%9F%9F/"/>
+    
   </entry>
   
   <entry>
-    <title>【周边】robot魂 飞翼零式高达 EW版</title>
+    <title>robot魂 飞翼零式高达 EW版</title>
     <link href="lizto-ink.github.io/2020/06/11/%E9%A3%9E%E7%BF%BC%E9%9B%B6%E5%BC%8F/"/>
     <id>lizto-ink.github.io/2020/06/11/%E9%A3%9E%E7%BF%BC%E9%9B%B6%E5%BC%8F/</id>
     <published>2020-06-11T15:18:33.000Z</published>
-    <updated>2020-07-03T22:45:48.098Z</updated>
+    <updated>2020-07-12T09:46:23.498Z</updated>
     
     <summary type="html">
     
@@ -433,14 +449,16 @@
     
     
     
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
+    
   </entry>
   
   <entry>
-    <title>【周边】robot魂 兰斯洛特siN</title>
+    <title>robot魂 兰斯洛特siN</title>
     <link href="lizto-ink.github.io/2020/06/10/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9/"/>
     <id>lizto-ink.github.io/2020/06/10/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9/</id>
     <published>2020-06-10T14:49:35.000Z</published>
-    <updated>2020-07-03T22:46:06.220Z</updated>
+    <updated>2020-07-12T09:46:41.950Z</updated>
     
     <summary type="html">
     
@@ -450,6 +468,8 @@
     </summary>
     
     
+    
+      <category term="模玩周边" scheme="lizto-ink.github.io/tags/%E6%A8%A1%E7%8E%A9%E5%91%A8%E8%BE%B9/"/>
     
   </entry>
   
